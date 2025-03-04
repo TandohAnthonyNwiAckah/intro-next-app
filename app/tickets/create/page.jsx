@@ -1,6 +1,6 @@
 "use client";
 
-import CreateForm from "./createForm";
+import CreateForm from "./CreateForm";
 
 const CreateTicket = () => {
   return (
