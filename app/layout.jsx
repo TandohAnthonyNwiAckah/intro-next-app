@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
           <Link href="/tickets">Tickets</Link>
         </nav> */}
 
-        <Navbar />
+        {/* <Navbar /> */}
 
         {children}
       </body>
